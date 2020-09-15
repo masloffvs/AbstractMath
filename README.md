@@ -5,5 +5,5 @@ AbstractMath is not a science or branch of mathematics, it is just a method of c
 
 The AbstractMath repository is designed to quickly learn the type of calculations, the designation of formulas and the assignment of some of them 
 
-### Step 1
+## Step 1
 <img src="https://raw.githubusercontent.com/irtexfree/AbstractMath/master/Step_1.jpg" width="100%">
