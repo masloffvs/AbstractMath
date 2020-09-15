@@ -7,7 +7,7 @@ The AbstractMath repository is designed to quickly learn the type of calculation
 
 ## Abstraction levels
 In the abstract representation of calculus there is a tree of names of entities. The higher the level, the less abstract the entity is.
-<img src="https://raw.githubusercontent.com/irtexfree/AbstractMath/master/Step_1.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/irtexfree/AbstractMath/master/source/img/Step_1.jpg" width="100%">
 
 ## Parsing mathematical expressions
 
