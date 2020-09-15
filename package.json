@@ -1,0 +1,22 @@
+{
+  "name": "abstractmath",
+  "version": "1.0.0",
+  "description": "Method of calculation in a more abstract way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irtexfree/AbstractMath.git"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "iRTEX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irtexfree/AbstractMath/issues"
+  },
+  "homepage": "https://github.com/irtexfree/AbstractMath#readme"
+}
