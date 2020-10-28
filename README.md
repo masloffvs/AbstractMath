@@ -19,5 +19,5 @@ Parsing and processing mathematical expressions is the most voluminous part of A
 In AbstractMath all expressions are read as a program with their environment. Variables, formulas or macros can be used as the environment.
 
 ## Enviroment
-<img src="https://raw.githubusercontent.com/irtexfree/AbstractMath/master/source/img/Env.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/irtexfree/AbstractMath/master/source/img/Env.png" width="100%">
 
