@@ -17,3 +17,7 @@ In the abstract representation of calculus there is a tree of names of entities.
 Parsing and processing mathematical expressions is the most voluminous part of AbstractMath. The branch aims at standardizing expressions for machine and human computing.
 
 In AbstractMath all expressions are read as a program with their environment. Variables, formulas or macros can be used as the environment.
+
+## Enviroment
+<img src="https://raw.githubusercontent.com/irtexfree/AbstractMath/master/source/img/Env.jpg" width="100%">
+
