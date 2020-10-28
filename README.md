@@ -1,4 +1,7 @@
 # AbstractMath
+
+> AbstractMath is not a branch in mathematics, it is only a way of presenting mathematics in abstract form with its methods of human and machine solution of mathematical problems.
+
 Welcome to the abstract branch of the mathematical calculation type
 
 AbstractMath is not a science or branch of mathematics, it is just a method of calculation in a more abstract way, suitable for fast conversion to Octave and Python or TypeScript programs.
